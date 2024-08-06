@@ -1,8 +1,8 @@
 # Hey there! I'm Atefeh 👋
 
-![React Developer](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![React Developer](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzcjR3ODV1OGt5bTBnaTRsZW5md3F5a2trOHV0MWF6djVtcGFndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)
 
-I'm a passionate **React Developer** 🚀 with a love for building sleek, modern web applications that make the world a better place one line of code at a time. When I'm not coding, you can find me geeking out over the latest JavaScript frameworks, tinkering with CSS animations, or leveling up my gaming skills. 🎮
+I'm a passionate **React Developer** 💖 with a love for building sleek, modern web applications that add a little sparkle ✨ to the world. When I'm not coding, you can find me exploring the latest JavaScript trends, perfecting my CSS animations, or relaxing with some of my favorite shows or games. 🎀🎮
 
 ### 👩‍💻 My Tech Stack:
 - **Frontend:** 
@@ -36,15 +36,15 @@ I'm diving deeper into:
 - Attend a React conference (or two) and connect with fellow devs! 🎉
 
 ### 🚀 Fun Facts:
-- I'm a night owl 🦉, often found coding past midnight with a cup of coffee ☕ by my side.
-- I have a secret love for anime 🎌 and have been known to binge-watch entire seasons during the weekends.
-- If I could have a superpower, it would be to instantly debug any code—no more endless searches on Stack Overflow!
+- I'm a night owl 🦉, often found coding past midnight with a cup of tea ☕ by my side.
+- I absolutely adore anime 🎌 and have a knack for finishing entire seasons in a single weekend.
+- If I could have a superpower, it would be to debug code with a single glance—no more searching for hours on Stack Overflow!
 
 ### 📫 How to reach me:
 - **Sample SNS:** ~[@atefeh_dev](https://sns.com/atefeh_dev)~
 
 ---
 
-~![Profile Views](https://komarev.com/ghpvc/?username=atefeh-dev&color=blueviolet&style=flat-square)~
+~![Profile Views](https://komarev.com/ghpvc/?username=atefeh-dev&color=ff69b4&style=flat-square)~
 
-![Keep Calm and Code On](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Keep Calm and Code On](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
