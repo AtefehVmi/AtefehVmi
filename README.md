@@ -8,7 +8,6 @@ I'm a passionate **React Developer** 💖 with a love for building sleek, modern
   ~![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)~ 
   ~![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)~ 
   ~![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)~ 
-  ~![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)~ 
 - **State Management & Data Fetching:** 
   ~![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-square)~ 
   ~![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=react-query&logoColor=white&style=flat-square)~
