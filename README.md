@@ -1,7 +1,5 @@
 # Hey there! I'm Atefeh 👋
 
-![React Developer](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXIzcjR3ODV1OGt5bTBnaTRsZW5md3F5a2trOHV0MWF6djVtcGFndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif)
-
 I'm a passionate **React Developer** 💖 with a love for building sleek, modern web applications that add a little sparkle ✨ to the world. When I'm not coding, you can find me exploring the latest JavaScript trends, perfecting my CSS animations, or relaxing with some of my favorite shows or games. 🎀🎮
 
 ### 👩‍💻 My Tech Stack:
