@@ -14,7 +14,7 @@ I'm a passionate **React Developer** 💖 with a love for building sleek, modern
 - **Styling:** 
   ~![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=flat-square)~ 
   ~![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)~
-  ~![BootstrapCSS](https://img.shields.io/badge/Bootstrap-1572B6?logo=bootstrap&logoColor=white&style=flat-square)~
+  ~![BootstrapCSS](https://img.shields.io/badge/Bootstrap-764ABC?logo=bootstrap&logoColor=white&style=flat-square)~
 - **Tools:** 
   ~![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)~ 
   ~![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)~
