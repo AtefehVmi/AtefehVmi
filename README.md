@@ -37,10 +37,5 @@ I'm diving deeper into:
 - I absolutely adore anime 🎌 and have a knack for finishing entire seasons in a single weekend.
 
 ### 📫 How to reach me:
-- **Sample SNS:** ~[@atefeh_dev](https://sns.com/atefeh_dev)~
-
----
-
-~![Profile Views](https://komarev.com/ghpvc/?username=atefeh-dev&color=ff69b4&style=flat-square)~
-
-![Keep Calm and Code On](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
+- **Email:** ativalimohammadi11@gmail.com
+- **Telegram:** @Ati_vmi
