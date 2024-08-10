@@ -26,7 +26,7 @@ I'm a passionate **React Developer** 💖 with a love for building sleek, modern
 I'm diving deeper into:
 - Advanced React patterns 🌀
 - TypeScript for a stronger typing system 🛡️
-- Testing with Jest and React Testing Library 🧪
+- Learning Next.js 🧪
 
 ### 🎯 Goals for 2024:
 - Contribute more to open-source projects 🌍
@@ -34,9 +34,7 @@ I'm diving deeper into:
 - Attend a React conference (or two) and connect with fellow devs! 🎉
 
 ### 🚀 Fun Facts:
-- I'm a night owl 🦉, often found coding past midnight with a cup of tea ☕ by my side.
 - I absolutely adore anime 🎌 and have a knack for finishing entire seasons in a single weekend.
-- If I could have a superpower, it would be to debug code with a single glance—no more searching for hours on Stack Overflow!
 
 ### 📫 How to reach me:
 - **Sample SNS:** ~[@atefeh_dev](https://sns.com/atefeh_dev)~
