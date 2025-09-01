@@ -1,6 +1,6 @@
 # Hey there! I'm Atefeh 👋
 
-I'm a passionate **React Developer** 💖 with a love for building sleek, modern web applications that add a little sparkle ✨ to the world. When I'm not coding, you can find me exploring the latest JavaScript trends, perfecting my CSS animations, or relaxing with some of my favorite shows or games. 🎀🎮
+I'm a passionate **Next.js, React.js Developer** 💖 with a love for building sleek, modern web applications that add a little sparkle ✨ to the world. When I'm not coding, you can find me exploring the latest JavaScript trends, perfecting my CSS animations, or relaxing with some of my favorite shows or games. 🎀🎮
 
 ### 👩‍💻 My Tech Stack:
 - **Frontend:** 
