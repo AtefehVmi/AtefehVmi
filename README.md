@@ -3,9 +3,9 @@
 I'm a passionate **Next.js, React.js Developer** 💖 with a love for building sleek, modern web applications that add a little sparkle ✨ to the world. When I'm not coding, you can find me exploring the latest JavaScript trends, perfecting my CSS animations, or relaxing with some of my favorite shows or games. 🎀🎮
 
 ### 👩‍💻 My Tech Stack:
-- **Frontend:** 
-  ~![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)~
+- **Frontend:**
   ~![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)~
+  ~![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square)~
   ~![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)~ 
   ~![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)~ 
   ~![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)~ 
